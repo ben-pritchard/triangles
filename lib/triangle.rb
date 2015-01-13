@@ -29,10 +29,3 @@ class Triangle
     end
   end
 end
-
-
-# if is_triangle?()
-#   "It's all good"
-# else
-#   "This is not a triangle"
-# end
